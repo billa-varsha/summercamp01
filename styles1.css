@@ -1,0 +1,39 @@
+body{ 
+    
+    color:darkmagenta;
+    background-image:url("new.jpg") ;    
+   
+   background-size: cover;
+   
+ 
+  
+  
+   
+   
+}
+h1{
+text-align: center;
+color: chartreuse;
+font-style:oblique; 
+font-size:40px;
+}
+h2{
+    font-style: italic;
+    color:cyan;
+    font-size:30px;
+}
+a{
+    color:cornsilk;
+}
+li{
+    font-size: 30px;
+    color:purple;
+}
+.my{
+    width: 200px;
+  height: 50px;
+    background-color:azure;    
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
